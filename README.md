@@ -78,25 +78,6 @@ Hardware comparison job: `dbsjpuhabdes73fr86eg`
 We also completed a separate four-step validation run:
 `dbsjn1gk09pc73b08i30`.
 
-## Viewing the notebook
-
-Open [QisKitFall2026.ipynb](QisKitFall2026.ipynb) to see the code and saved results.
-
-To use the sliders, open the notebook in Google Colab and initialize the
-required variables. GitHub displays a static preview, so the sliders
-will not respond there.
-
-The simulated experiments do not require quantum hardware. Running the
-hardware sections requires your own IBM Quantum credentials and access
-to an instance.
-
-Run cells individually when presenting. The original hardware submission
-cell can submit a job in a fresh runtime, so avoid using “Run all” simply
-to view the results.
-
-The hardware slider reuses completed measurements once the comparison
-data is loaded. Moving it does not submit another hardware job.
-
 ## What we learned
 
 Improving the mathematical approximation does not automatically improve
